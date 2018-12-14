@@ -23,6 +23,8 @@ We interviewed different related people, such as journalists working on SCMP and
 SCMP is changing in a unobvious way. Journalists in SCMP still reports some sensitive events, but to some extent, it has been increasing some propoganda news reports, especially for some special days like G20， and this may because now the SCMP focus on showing the good image of China to the world.
 
 ### Quick pointers to key files
+the file [scmp]() includes yearly data collection and data analysis  under sub folders such as 2011 scmp, 2010 scmp
+
 
 
 ### References
