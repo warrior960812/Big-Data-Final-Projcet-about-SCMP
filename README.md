@@ -10,12 +10,11 @@ Has Alibaba changed the South China Morning Post?
 
 ### Background and motivation
 
-SCMP is a competitive English-language newspaper in Hongkong. In 2015, Alibaba bought SCMP and became its parent company. 
-Then many outsiders are speculatig that if the SCMP is not a newspaper which has the attitude of neutrality and started to report more news pro-Beijing.
+SCMP is a competitive English-language newspaper in Hongkong. In 2015, Alibaba bought SCMP and became its parent company. Then many outsiders are speculatig that if the SCMP is not a newspaper which has the attitude of neutrality and started to report more news pro-Beijing.
 
-Given Jack Ma, the founder of Alibaba, is a Communist Party member and some sources said Alibaba is a company which has the closet relationship with the mainland government, it seems that SCMP is changing...and is it really changing?! Does the owner of the media really influence its content?
+Given Jack Ma, the founder of Alibaba, is a Communist Party member and some sources said Alibaba is a company which has the closet relationship with the mainland government, it seems that SCMP is changing...and is it really changing?! Does the owner of the media relly influence its content?
 
-We interviewed different related people, such as journalists working on SCMP and the some professors. They held different views, and the former chief editor of SCMP said he gave no commment, but the judgement can depend on the observation after analysizing the content of the SCMP during these years.
+We interviewed different related people, such as journalists working on SCMP and the some professors. They held different views and even the former chief editor of SCMP said he gave no commment but the judgement can depend on the observation after analyzing the content of the SCMP during these years.
 
 
 ### (optional) Executive summary
