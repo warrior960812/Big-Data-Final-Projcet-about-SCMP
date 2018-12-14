@@ -23,14 +23,15 @@ We interviewed different related people, such as journalists working on SCMP and
 SCMP is changing in a unobvious way. Journalists in SCMP still reports some sensitive events, but to some extent, it has been increasing some propoganda news reports, especially for some special days like G20， and this may because now the SCMP focus on showing the good image of China to the world.
 
 ### Quick pointers to key files
-the file [scmp]() includes yearly data collection and data analysis  under sub folders such as 2011 scmp, 2010 scmp
+- the file [scmp](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/scmp) includes yearly data collection and data analysis  under sub folders such as 2011 scmp, 2010 scmp
+- 
 
 
 
 ### References
 https://search-proquest-com.lib-ezproxy.hkbu.edu.hk/asianews/publication/26858/citation/6F63087B31B643A0PQ/12?accountid=11440
 
-[studies on Development of south China morning post in mainland China](http://comd.hkbu.edu.hk/mm/mmgtproject/image/projects/2012_project/12_group4.pdf)
+[studies on Development of south China morning post in mainland China](http://comd.hkbu.edu.hk/mm/mmgtproject/image/projects/2012_project/12_、group4.pdf)
 
 https://cn.nytimes.com/china/20180402/south-china-morning-post-hong-kong-alibaba/zh-hant/
 
