@@ -38,4 +38,7 @@ a survey questionnaire about SCMP did by a group of master students from comm720
 
 https://www.scmp.com/news/hong-kong/politics/article/2175931/jack-ma-communist-party-member-so-what
 
+[HKJA Annual Report 2018](https://www.hkja.org.hk/ebook/c_Annual%20Report%202018/mobile/index.html#p=18)
+https://www.huxiu.com/article/17549/1.html?mobile_view_web=1
+
 
