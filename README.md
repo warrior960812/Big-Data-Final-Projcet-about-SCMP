@@ -24,7 +24,7 @@ SCMP is changing in a unobvious way. Journalists in SCMP still reports some sens
 ### Quick pointers to key files
 - the file [scmp](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/scmp) includes yearly data collection and data analysis  under sub folders such as 2011 scmp, 2010 scmp
 - the file[2010-2018 scmp csv for every year](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/scmp/2010-2018%20scmp%20csv%20for%20every%20year) includes the yearly data of headlines of news from scmp during 2010-2018.
-
+- the file [scmp word frequency photo](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/SCMP%20word%20frequency%20photo/SCMP) and includes some charts after analyzing the the data
 
 
 
