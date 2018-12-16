@@ -25,7 +25,7 @@ SCMP is changing in a unobvious way. Journalists in SCMP still reports some sens
 - the file [scmp](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/scmp) includes yearly data collection and data analysis  under sub folders such as 2011 scmp, 2010 scmp
 - the file[2010-2018 scmp csv for every year](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/scmp/2010-2018%20scmp%20csv%20for%20every%20year) includes the yearly data of headlines of news from scmp during 2010-2018.
 - the file [scmp word frequency photo](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/SCMP%20word%20frequency%20photo/SCMP) and [chart related to Jack Ma and bylines](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/chart%20related%20to%20Jack%20Ma%20and%20bylines) includes some charts after analyzing the the data
-- the file [codes of bylines and others]() includes the code analysing the bylines and the numbers of the name" Jack Ma", and other codes related to Global Times.
+- the file [codes of bylines and others](https://github.com/warrior960812/Big-Data-Final-Projcet-about-SCMP/tree/master/code%20of%20bylines%20%20and%20others) includes the code analysing the bylines and the numbers of the name" Jack Ma", and other codes related to Global Times.
 
 
 
